@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    text-align: center;
+    color: whitesmoke;
+    background-color: blue;
+    height: 70px;
+}

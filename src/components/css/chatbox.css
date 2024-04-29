@@ -1,0 +1,22 @@
+.cht{
+    margin: 100px;
+    margin-right: 0;
+    margin-top: 50px;
+    margin-bottom: 0;
+    color: blanchedalmond;
+}
+.cht img{
+    width: 50px;
+}
+.chatbox{
+    position: sticky;
+    text-align: center;
+    background-color: rgb(38, 100, 63);
+    height: 1000px;
+    width: 90%;
+    border-radius: 20px;
+}
+.chatbox input,.chatbox button{
+    height: 50px;
+    
+}
